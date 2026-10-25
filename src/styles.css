@@ -154,3 +154,7 @@ button { font: inherit; }
 @media (prefers-reduced-motion: reduce) {
   .active-title { animation-duration: 1ms; animation-delay: 0ms; }
 }
+
+@media (max-width: 480px) {
+  .signature { bottom: 48px; }
+}
