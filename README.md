@@ -2,7 +2,7 @@
 
 Three animated scenes behind live 3D portal cards. Click a card to move the camera into its world, explore, then return to the overview.
 
-[Build your own](#build-your-own) · [Credits](#credits) · [Source files](src/)
+[Try the live demo](https://three-small-worlds.vercel.app/) · [Build your own](#build-your-own) · [Credits](#credits)
 
 ![Three Small Worlds portal overview](preview.png)
 
